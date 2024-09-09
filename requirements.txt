@@ -24,9 +24,9 @@ jsonpatch==1.33
 jsonpointer==3.0.0
 jupyter_client==8.6.2
 jupyter_core==5.7.2
-langchain==0.2.6
-langchain-community==0.2.6
-langchain-core==0.2.11
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-core==0.2.38
 langchain-text-splitters==0.2.2
 langsmith==0.1.83
 marshmallow==3.21.3
@@ -35,7 +35,7 @@ multidict==6.0.5
 mypy-extensions==1.0.0
 nest-asyncio==1.6.0
 numpy==1.26.4
-oci==2.129.1
+oci==2.133.0
 oracledb==2.2.1
 orjson==3.10.6
 packaging==24.1
